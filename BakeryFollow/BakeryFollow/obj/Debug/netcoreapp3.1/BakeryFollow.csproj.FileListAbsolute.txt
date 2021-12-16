@@ -1,0 +1,13 @@
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/bin/Debug/netcoreapp3.1/BakeryFollow.deps.json
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/bin/Debug/netcoreapp3.1/BakeryFollow.runtimeconfig.json
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/bin/Debug/netcoreapp3.1/BakeryFollow.runtimeconfig.dev.json
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/bin/Debug/netcoreapp3.1/BakeryFollow.dll
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/bin/Debug/netcoreapp3.1/BakeryFollow.pdb
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.csproj.AssemblyReference.cache
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.AssemblyInfoInputs.cache
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.AssemblyInfo.cs
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.csproj.CoreCompileInputs.cache
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.dll
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.pdb
+/Users/Dexem/Projects/BakeryFollow/BakeryFollow/obj/Debug/netcoreapp3.1/BakeryFollow.genruntimeconfig.cache
